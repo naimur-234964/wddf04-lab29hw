@@ -61,6 +61,10 @@ html{
 #navbar .dropdown-menu{
     --bs-dropdown-bg:: transparent;
 }
+
+.nav-active{
+    background: rgba(0, 0, 0, 0.5);
+}
 /* navbar section end */
 
 /* carousel section start */
