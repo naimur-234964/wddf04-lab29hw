@@ -133,6 +133,17 @@ html{
 }
 /* services section end */
 
+/* portfolio section start */
+.portfolio-links ul li a{
+    background: var(--dark-color);
+    transition: .3s;
+
+    &:hover{
+        background: var(--primary-color);
+    }
+}
+/* portfolio section end */
+
  main{
     height: 1300px;
 } 
